@@ -70,6 +70,21 @@ I'm Stanley (Fu-Kai) Teng — a passionate builder, backend engineer, and aspiri
 
 ---
 
+## 🔬 Currently Building & Researching
+### Researcher at the University of Pittsburgh
+- 🔍 Focusing on the **design and validation of lightweight appliance data subsystems for household energy feedback**
+- 🔨 Building a microservice-based subsystem integrating databases and REST APIs to deliver appliance-level energy estimates from minimal user input, validated against measured device consumption.
+
+### Research Assistant at Yale University
+- 🔨 Building a model to predict the survival rate before and after a policy change
+- 🚀 Improving micro-simulation models for patient cohorts by fitting Weibull distributions and refining survival analysis techniques
+
+### CoinLens (Personal project)
+- 🔨 Building a full-stack crypto trading platform with a glassmorphism UI and analytical dashboards with real-time whale tracking and composite scoring of early-stage coins
+
+---
+
 ## ☕ Let’s Connect
 
-I am eager to connect with like-minded professionals and explore opportunities where technology and innovation create meaningful change. Feel free to reach out!
+I am eager to connect with like-minded professionals and explore opportunities where technology and innovation create meaningful change. Feel free to reach out!  
+📩 [stanley97043@gmail.com](mailto:stanley97043@gmail.com) | 💁‍♂️ [LinkedIn](www.linkedin.com/in/stanley-teng)
